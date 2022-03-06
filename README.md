@@ -10,6 +10,6 @@ All ... and I mean ALL progrmming languages. Test for runes. A year ago when I t
 
 If you can block emojis / remove emojis from your app or whatever platform... do so. Becuase the goddamn kids dont realise the level of shit their "hacking" causes due to their lack of byte arrangement knowledge.
 
-Maurice  
+Maurice  Marinus
 
 Maybe I'll write a somehing that will help check your code. But wont be available to every dick tom and harry because they will just use it to catch on shit.  
